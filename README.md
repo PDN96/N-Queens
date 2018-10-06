@@ -1,1 +1,1 @@
-N-Queens posed as a search problem with constraints
+N-Queens with constraints posed as a search problem 
